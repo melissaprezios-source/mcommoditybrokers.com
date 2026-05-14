@@ -1,11 +1,11 @@
+"use client";
+
 import React from "react";
 import { motion } from "framer-motion";
 import {
   ShieldCheck,
   Globe2,
   FileText,
-  Handshake,
-  Ship,
   Fuel,
   CheckCircle2,
   ArrowRight,
